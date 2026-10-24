@@ -1,25 +1,18 @@
-<!--
-  Muhammad Adil | Premium GitHub Profile
-  Built with GitHub-flavoured Markdown, SVG, Shields.io and lightweight dynamic cards.
--->
-
+<!-- Muhammad Adil | Clean, premium GitHub profile README -->
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Muhammad Adil — Software Quality Assurance Engineer" />
+<img src="assets/profile-banner.svg" width="100%" alt="Muhammad Adil | Software Quality Assurance Engineer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Software+Quality+Assurance+Engineer;Manual+QA+%E2%80%A2+Web+%26+Mobile;API+Testing+%E2%80%A2+SQL+Validation;Playwright+%2B+Python+%E2%80%94+Learning+Automation" alt="Animated QA headline" />
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Software+Quality+Assurance+Engineer;Manual+QA+%7C+Web+%26+Mobile+Testing;API+Testing+%7C+SQL+Data+Validation;Learning+Playwright+%26+Python+Automation" alt="Animated QA headline" />
-</a>
+<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00C7D9?style=for-the-badge&logo=vercel&logoColor=07111F" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/muhammad-adil110/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/adilmeertest-cmyk?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
-<p>
-  <a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-0B1220?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-adil110/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
-  <a href="https://github.com/adilmeertest-cmyk?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Explore-0B1220?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Repositories" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=adilmeertest-cmyk&style=flat&color=0891b2&label=PROFILE+VISITS" alt="Profile visits" />
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=adilmeertest-cmyk&style=flat-square&color=0891b2&label=PROFILE+VISITS" alt="Profile visits" />
 
 </div>
 
@@ -27,136 +20,140 @@
 
 <div align="center">
 
-### BUILDING CONFIDENCE THROUGH QUALITY
+## QUALITY IS IN THE DETAILS
 
-**I explore. I test. I investigate. I help make software more reliable.**
+**Explore thoughtfully. Test thoroughly. Report clearly.**
 
-<sub>Manual QA&nbsp; • &nbsp;Web & Mobile&nbsp; • &nbsp;API&nbsp; • &nbsp;SQL&nbsp; • &nbsp;Automation in progress</sub>
+<sub>MANUAL QA &nbsp;•&nbsp; WEB / MOBILE &nbsp;•&nbsp; API &nbsp;•&nbsp; SQL &nbsp;•&nbsp; AUTOMATION LEARNING</sub>
 
 </div>
 
-## 01 / About Me
+## ◈ About
 
-Hey, I'm **Muhammad Adil** — a Software Quality Assurance Engineer who cares about the details behind a smooth user experience.
+I'm **Muhammad Adil**, a Software Quality Assurance Engineer focused on helping software behave reliably and feel intuitive to its users.
 
-My day-to-day QA focus includes functional and UI testing, web and mobile application testing, regression checks, retesting fixes, and writing clear, reproducible defect reports. I’m expanding my technical toolkit with API validation, SQL/MySQL, browser debugging, and test automation.
-
-- **Quality mindset:** user-focused, detail-oriented, evidence-led
-- **Testing focus:** understand expected behaviour, explore edge cases, verify fixes
-- **Currently learning:** Playwright with Python and structured automation practices
-
-## 02 / QA Capabilities
+I work across functional, UI, web and mobile testing, regression checks, retesting, and clear defect reporting. I'm strengthening my technical QA skills with API testing, SQL/MySQL validation, browser debugging, and Playwright with Python.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Manual Quality Assurance
+### ◉ QA Focus
 
 - Functional and UI testing
-- Web and mobile application testing
-- Regression testing and retesting
+- Web and mobile testing
+- Regression and retesting
 - Test scenarios and test cases
-- Exploratory checks and edge cases
-- Clear bug reports and verification
+- Exploratory testing and edge cases
+- Reproducible defect reports
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Technical QA
+### ⌘ Technical Toolkit
 
-- API requests and response checks with Postman
-- SQL / MySQL data validation
-- Chrome DevTools and Network inspection
-- Playwright + Python — learning automation
-- Git and GitHub workflow fundamentals
-- Frontend behaviour and usability checks
+- **API:** Postman
+- **Data:** SQL / MySQL
+- **Debugging:** Chrome DevTools
+- **Automation:** Playwright + Python *(learning)*
+- **Workflow:** Git and GitHub
+- **Editor:** Visual Studio Code
 
 </td>
 </tr>
 </table>
 
-## 03 / Tools & Technologies
+## ◈ Tools I Use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postman,python,mysql,git,github,vscode&theme=dark&perline=6" alt="Postman, Python, MySQL, Git, GitHub and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=postman,python,mysql,git,github,vscode&theme=dark&perline=6" alt="Postman, Python, MySQL, Git, GitHub and VS Code" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Manual_Testing-0F172A?style=flat-square&logo=checkmarx&logoColor=67E8F9" alt="Manual testing" />
-<img src="https://img.shields.io/badge/API_Testing-0F172A?style=flat-square&logo=postman&logoColor=FF6C37" alt="API testing" />
-<img src="https://img.shields.io/badge/SQL_Validation-0F172A?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL validation" />
-<img src="https://img.shields.io/badge/Browser_DevTools-0F172A?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Browser DevTools" />
-<img src="https://img.shields.io/badge/Playwright-Learning-0F172A?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Learning Playwright" />
+<img src="https://img.shields.io/badge/MANUAL_TESTING-111827?style=flat-square&logo=checkmarx&logoColor=67E8F9" alt="Manual testing" />
+<img src="https://img.shields.io/badge/API_TESTING-111827?style=flat-square&logo=postman&logoColor=FF6C37" alt="API testing" />
+<img src="https://img.shields.io/badge/SQL_VALIDATION-111827?style=flat-square&logo=mysql&logoColor=60A5FA" alt="SQL validation" />
+<img src="https://img.shields.io/badge/PLAYWRIGHT_LEARNING-111827?style=flat-square&logo=playwright&logoColor=2EAD33" alt="Playwright learning" />
 
 </div>
 
-## 04 / How I Approach Quality
+## ◈ My QA Workflow
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
 
-**01 · UNDERSTAND**
+### 01
 
-<sub>Review requirements and user flows</sub>
+**UNDERSTAND**
 
-</td>
-<td align="center" width="25%">
-
-**02 · EXPLORE**
-
-<sub>Test behaviour, boundaries, and usability</sub>
+<sub>Requirements & user flows</sub>
 
 </td>
 <td align="center" width="25%">
 
-**03 · REPORT**
+### 02
 
-<sub>Document clear, reproducible defects</sub>
+**TEST**
+
+<sub>Expected behaviour & edge cases</sub>
 
 </td>
 <td align="center" width="25%">
 
-**04 · VERIFY**
+### 03
 
-<sub>Retest fixes and check regressions</sub>
+**DOCUMENT**
+
+<sub>Clear, reproducible findings</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**VERIFY**
+
+<sub>Fixes & regression checks</sub>
 
 </td>
 </tr>
 </table>
+</div>
 
-## 05 / GitHub Snapshot
+## ◈ GitHub Overview
 
 <div align="center">
 
 <a href="https://github.com/adilmeertest-cmyk">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adilmeertest-cmyk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=818CF8&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adilmeertest-cmyk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=D7E3F4&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/adilmeertest-cmyk?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilmeertest-cmyk&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilmeertest-cmyk&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=D7E3F4" alt="Most-used repository languages" />
 </a>
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adilmeertest-cmyk&bg_color=0D1117&color=94A3B8&line=22D3EE&point=818CF8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adilmeertest-cmyk&bg_color=0D1117&color=94A3B8&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
-<sub>GitHub cards are served by external services and may occasionally load slowly. Language statistics describe public repository code, not skill level.</sub>
+<sub>Stats and animations are provided by external services and may occasionally load slowly. Language cards reflect repository contents, not skill level.</sub>
 
-## 06 / Connect
+---
 
 <div align="center">
 
-### Good software is tested with curiosity and improved with clarity.
+## LET'S CONNECT
 
-<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" /></a>
-<a href="https://www.linkedin.com/in/muhammad-adil110/"><img src="https://img.shields.io/badge/LET'S_CONNECT-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+**Curious about quality, user experience, and making software more dependable.**
+
+<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/muhammad-adil110/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <br/><br/>
-
-<sub><i>Test with purpose. Report with clarity. Keep improving.</i></sub>
+<sub><i>Test with purpose · Report with clarity · Keep improving</i></sub>
 
 </div>
