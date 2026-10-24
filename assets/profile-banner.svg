@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Adil — Software Quality Assurance Engineer</title>
+  <desc id="desc">Modern navy, blue, and violet gradient banner for a software quality assurance engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1224"/>
+      <stop offset=".52" stop-color="#173b78"/>
+      <stop offset="1" stop-color="#4338a8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#bfdbfe" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <circle cx="1050" cy="28" r="190" fill="#818cf8" opacity=".10"/>
+  <circle cx="1120" cy="280" r="135" fill="#38bdf8" opacity=".09"/>
+  <g fill="#bfdbfe" opacity=".65">
+    <circle cx="90" cy="70" r="3"/><circle cx="112" cy="70" r="3"/><circle cx="134" cy="70" r="3"/>
+    <circle cx="1030" cy="95" r="3"/><circle cx="1052" cy="95" r="3"/><circle cx="1074" cy="95" r="3"/>
+  </g>
+  <path d="M0 250 C260 190 430 320 700 240 S1030 200 1200 230" fill="none" stroke="#bfdbfe" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 270 C260 210 430 340 700 260 S1030 220 1200 250" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <text x="600" y="125" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="750">Muhammad Adil</text>
+  <text x="600" y="172" text-anchor="middle" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Software Quality Assurance Engineer</text>
+  <text x="600" y="215" text-anchor="middle" fill="#e0e7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Manual Testing  •  Web &amp; Mobile QA  •  API Testing  •  Automation Learning</text>
+</svg>
