@@ -1,16 +1,17 @@
-<!-- Premium GitHub Profile | Muhammad Adil -->
+<!-- Premium GitHub Profile README | Muhammad Adil -->
+
 <div align="center">
 
 <img src="assets/profile-banner.svg" alt="Muhammad Adil — Software Quality Assurance Engineer" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=850&color=60A5FA&center=true&vCenter=true&width=720&lines=Software+Quality+Assurance+Engineer;Manual+%7C+Functional+%7C+Regression+Testing;Web+%26+Mobile+Application+QA;API+Testing+%26+SQL+Validation;Growing+with+Playwright+%26+Python" alt="Animated QA introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2600&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&lines=Software+Quality+Assurance+Engineer;Manual+%26+Functional+Testing;Web+%26+Mobile+Application+QA;API+Testing+%7C+SQL+Validation;Growing+with+Playwright+%26+Python" alt="Animated QA introduction" />
 </a>
 
 <p>
   <a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/muhammad-adil110/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/adilmeertest-cmyk?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/adilmeertest-cmyk?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=adilmeertest-cmyk&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
@@ -19,102 +20,109 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hi, I'm **Muhammad Adil**, a **Software Quality Assurance Engineer** who cares about reliable functionality, clear user experiences, and actionable defect reports.
+Hi, I'm **Muhammad Adil**, a **Software Quality Assurance Engineer** focused on helping teams deliver reliable, consistent, and user-friendly software. My QA work includes manual testing of web and mobile applications, functional and UI checks, regression testing, retesting, and clear defect reporting.
 
-My QA work focuses on manual testing for web and mobile applications, functional and UI validation, regression testing, retesting, and documenting issues clearly. I’m also building practical skills in API testing, SQL validation, browser debugging, and test automation.
+I'm continuing to build my technical QA skills through hands-on practice with API testing, SQL/MySQL validation, browser debugging, and test automation.
 
-## 🎯 What I Work On
+## ✦ QA Toolkit
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Manual Quality Assurance
-- Functional and UI testing
-- Web and mobile application testing
-- Regression testing and retesting
-- Test scenarios and test cases
-- Defect reproduction and verification
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Technical QA
-- API testing with Postman
-- SQL / MySQL data validation
-- Chrome DevTools and Network inspection
-- Playwright and Python automation — learning
-- Git and GitHub workflows
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Manual Quality Assurance</h3>
+      <ul>
+        <li>Functional and UI testing</li>
+        <li>Web and mobile application testing</li>
+        <li>Regression testing and retesting</li>
+        <li>Test scenarios and test cases</li>
+        <li>Defect documentation and verification</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Technical QA</h3>
+      <ul>
+        <li>API checks with Postman</li>
+        <li>SQL / MySQL data validation</li>
+        <li>Chrome DevTools and Network inspection</li>
+        <li>Playwright and Python — learning automation</li>
+        <li>Git and GitHub fundamentals</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ## 🧰 Tools & Technologies
 
 <div align="center">
 
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-Learning-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright learning" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
-<a href="https://developer.chrome.com/docs/devtools/"><img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" /></a>
+<img src="https://skillicons.dev/icons?i=postman,python,mysql,git,github,vscode&theme=dark" alt="Postman, Python, MySQL, Git, GitHub and VS Code" />
+
+<p>
+  <img src="https://img.shields.io/badge/Manual_QA-2563EB?style=flat-square" alt="Manual QA" />
+  <img src="https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API testing" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Automation-Learning_Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Learning Playwright" />
+  <img src="https://img.shields.io/badge/Browser_Debugging-DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+</p>
 
 </div>
 
-## 🧭 My QA Principles
+## 🔍 My QA Principles
 
-<details>
-<summary><strong>01 · Understand the user journey</strong></summary>
-<br />
-Explore core workflows, inputs, validation, edge cases, and how the interface responds.
-</details>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>01</h3>
+      <strong>Understand</strong><br/>
+      <sub>Explore requirements and user journeys.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>02</h3>
+      <strong>Investigate</strong><br/>
+      <sub>Check behavior, edge cases, and usability.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>03</h3>
+      <strong>Communicate</strong><br/>
+      <sub>Report defects clearly and accurately.</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>04</h3>
+      <strong>Verify</strong><br/>
+      <sub>Retest fixes and protect existing flows.</sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-<summary><strong>02 · Report issues clearly</strong></summary>
-<br />
-Write concise, reproducible bug reports that help developers understand and investigate the problem.
-</details>
-
-<details>
-<summary><strong>03 · Verify fixes carefully</strong></summary>
-<br />
-Retest resolved issues and check related functionality for regressions.
-</details>
-
-<details>
-<summary><strong>04 · Keep learning by building</strong></summary>
-<br />
-Strengthen API, database, and automation skills through practical QA exercises.
-</details>
-
-## 📈 GitHub Snapshot
+## 📈 GitHub Activity
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=adilmeertest-cmyk&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=C9D1D9" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilmeertest-cmyk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used languages" />
-  <br />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=adilmeertest-cmyk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=93C5FD&line=818CF8&point=FFFFFF&area=true&area_color=1D4ED8" alt="GitHub contribution activity" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adilmeertest-cmyk&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilmeertest-cmyk&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adilmeertest-cmyk&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+
 </div>
 
-<sub>GitHub cards and activity graphs are provided by third-party services and may occasionally be unavailable. Language statistics reflect repository contents, not necessarily proficiency.</sub>
+<sub>Activity cards are generated by third-party services and may occasionally be unavailable. Language statistics reflect repository code and do not necessarily represent proficiency.</sub>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-I'm always interested in learning, collaborating, and improving software quality.
+**Let's connect and talk about software quality, testing, and continuous improvement.**
 
-<a href="https://m-adil-one.vercel.app/"><strong>Portfolio</strong></a> &nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/muhammad-adil110/"><strong>LinkedIn</strong></a> &nbsp; • &nbsp;
-<a href="https://github.com/adilmeertest-cmyk?tab=repositories"><strong>GitHub Projects</strong></a>
+<a href="https://m-adil-one.vercel.app/">Portfolio</a> &nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/muhammad-adil110/">LinkedIn</a> &nbsp; • &nbsp;
+<a href="https://github.com/adilmeertest-cmyk?tab=repositories">GitHub Projects</a>
 
-<br /><br />
+<br/><br/>
 
-**Test with purpose. Report with clarity. Improve continuously.** ✨
+*Test with purpose. Report with clarity. Keep improving.*
 
 </div>
