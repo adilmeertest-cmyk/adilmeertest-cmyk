@@ -157,3 +157,58 @@ I work across functional, UI, web and mobile testing, regression checks, retesti
 <sub><i>Test with purpose · Report with clarity · Keep improving</i></sub>
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:102A43,100:312E81&height=3&section=footer" width="100%" alt="" />
+
+## BUILD BETTER. SHIP WITH CONFIDENCE.
+
+<sub>A modern QA mindset for reliable products and better user experiences.</sub>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**01 · QUALITY**
+
+<br/>
+
+<sub>Find issues early.<br/>Protect user experience.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**02 · CLARITY**
+
+<br/>
+
+<sub>Make every finding<br/>easy to reproduce.</sub>
+
+</td>
+<td align="center" width="33%">
+
+**03 · GROWTH**
+
+<br/>
+
+<sub>Learn continuously.<br/>Improve every release.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-67E8F9?style=for-the-badge&logo=vercel&logoColor=0B1220" alt="Visit my portfolio" /></a>
+<a href="https://www.linkedin.com/in/muhammad-adil110/"><img src="https://img.shields.io/badge/LET'S_CONNECT-A78BFA?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="Let's connect" /></a>
+
+<br/><br/>
+
+<sub>Designed in Markdown + SVG · Built with care by Muhammad Adil</sub>
+
+</div>
