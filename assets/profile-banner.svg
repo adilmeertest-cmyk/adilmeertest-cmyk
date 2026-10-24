@@ -1,28 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Muhammad Adil — Software Quality Assurance Engineer</title>
-  <desc id="desc">Modern navy, blue, and violet gradient banner for a software quality assurance engineer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Adil | Software Quality Assurance Engineer</title>
+  <desc id="desc">Premium midnight navy banner with animated blue and violet light trails, QA-inspired interface details, and the engineer's name.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1224"/>
-      <stop offset=".52" stop-color="#173b78"/>
-      <stop offset="1" stop-color="#4338a8"/>
+      <stop offset="0" stop-color="#070B16"/><stop offset=".48" stop-color="#101D3A"/><stop offset="1" stop-color="#25165B"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#bfdbfe" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#93C5FD"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
     </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#3B82F6" stop-opacity=".28"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#93C5FD" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
   </defs>
-  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
-  <circle cx="1050" cy="28" r="190" fill="#818cf8" opacity=".10"/>
-  <circle cx="1120" cy="280" r="135" fill="#38bdf8" opacity=".09"/>
-  <g fill="#bfdbfe" opacity=".65">
-    <circle cx="90" cy="70" r="3"/><circle cx="112" cy="70" r="3"/><circle cx="134" cy="70" r="3"/>
-    <circle cx="1030" cy="95" r="3"/><circle cx="1052" cy="95" r="3"/><circle cx="1074" cy="95" r="3"/>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="115" rx="290" ry="210" fill="url(#glow)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M-40 285 C180 190 320 350 540 258 S900 165 1240 245" stroke="#60A5FA" stroke-opacity=".18" stroke-width="2"/>
+    <path d="M-40 305 C180 210 320 370 540 278 S900 185 1240 265" stroke="url(#beam)" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="20 22;120 22;20 22" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M780 40 C900 75 980 20 1110 65" stroke="#A78BFA" stroke-opacity=".38" stroke-width="1.5"/>
+    <path d="M840 58 C960 93 1040 38 1170 83" stroke="#60A5FA" stroke-opacity=".25" stroke-width="1.5"/>
   </g>
-  <path d="M0 250 C260 190 430 320 700 240 S1030 200 1200 230" fill="none" stroke="#bfdbfe" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M0 270 C260 210 430 340 700 260 S1030 220 1200 250" fill="none" stroke="url(#line)" stroke-width="2"/>
-  <text x="600" y="125" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="750">Muhammad Adil</text>
-  <text x="600" y="172" text-anchor="middle" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Software Quality Assurance Engineer</text>
-  <text x="600" y="215" text-anchor="middle" fill="#e0e7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Manual Testing  •  Web &amp; Mobile QA  •  API Testing  •  Automation Learning</text>
+  <g fill="#BFDBFE">
+    <circle cx="80" cy="76" r="3" opacity=".75"/><circle cx="102" cy="76" r="3" opacity=".45"/><circle cx="124" cy="76" r="3" opacity=".25"/>
+    <circle cx="1070" cy="128" r="3" opacity=".55"><animate attributeName="opacity" values=".2;.9;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1092" cy="128" r="3" opacity=".35"/><circle cx="1114" cy="128" r="3" opacity=".2"/>
+  </g>
+  <g transform="translate(900 145)" opacity=".8">
+    <rect x="0" y="0" width="210" height="104" rx="14" fill="#0B1224" fill-opacity=".52" stroke="#93C5FD" stroke-opacity=".3"/>
+    <rect x="18" y="20" width="42" height="42" rx="12" fill="#2563EB" fill-opacity=".25" stroke="#60A5FA" stroke-opacity=".7"/>
+    <path d="M29 41l8 8 15-17" fill="none" stroke="#BFDBFE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="76" y="24" width="104" height="7" rx="3.5" fill="#BFDBFE" fill-opacity=".8"/>
+    <rect x="76" y="39" width="78" height="5" rx="2.5" fill="#93C5FD" fill-opacity=".4"/>
+    <rect x="18" y="76" width="174" height="5" rx="2.5" fill="#818CF8" fill-opacity=".45"/>
+    <rect x="18" y="76" width="118" height="5" rx="2.5" fill="#60A5FA"><animate attributeName="width" values="78;150;118;78" dur="6s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="600" y="126" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="-.8">Muhammad Adil</text>
+  <text x="600" y="173" text-anchor="middle" fill="#BFDBFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Software Quality Assurance Engineer</text>
+  <rect x="430" y="197" width="340" height="2" rx="1" fill="url(#beam)"/>
+  <text x="600" y="229" text-anchor="middle" fill="#D7E4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Manual QA  •  Web &amp; Mobile  •  API &amp; SQL  •  Automation Learning</text>
+  <text x="600" y="270" text-anchor="middle" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3">QUALITY  ·  CLARITY  ·  CONTINUOUS IMPROVEMENT</text>
 </svg>
