@@ -147,7 +147,7 @@ I work across functional, UI, web and mobile testing, regression checks, retesti
 <div align="center">
 
 ## LET'S CONNECT
-
+ 
 **Curious about quality, user experience, and making software more dependable.**
 
 <a href="https://m-adil-one.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
